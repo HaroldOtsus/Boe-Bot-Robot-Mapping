@@ -30,3 +30,4 @@ Image of the map: (https://github.com/HaroldOtsus/Boe-Bot-Robot-Mapping/assets/9
 
 Traversal algorithm diagram: (https://github.com/HaroldOtsus/Boe-Bot-Robot-Mapping/assets/92230750/8115b106-080a-436e-9433-bdd61053a130)
 
+Mapping algorithm diagram: ![Mapping](https://github.com/HaroldOtsus/Boe-Bot-Robot-Mapping/assets/92230750/86fe8b5b-d6b7-4cf5-a5a6-a449e5f8055a)
