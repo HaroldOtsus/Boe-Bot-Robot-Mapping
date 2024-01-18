@@ -1,4 +1,4 @@
-# Boe Bot Robot Mapping
+# Boe-Bot Robot Mapping
 Boe-Bot robot that is programmed to map a given path and display the same map in a smaller form on an LCD screen.
 
 Dependencies:
@@ -23,3 +23,6 @@ Usage:
 - The map will be displayed on an LCD screen. 
 - When the robot has traversed all of the map, it will then stop and let the user know with a beeper.
 - When started, the robot will wait on standby mode and when a button is pressed, the robot will start it's work.
+
+Video of the robot: https://youtu.be/PahHFl3Yav8
+Image of the map: (https://github.com/HaroldOtsus/Boe-Bot-Robot-Mapping/assets/92230750/ea4d3ff2-5094-47ba-bf75-dbc96009319f)
