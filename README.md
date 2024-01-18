@@ -28,7 +28,7 @@ Video of the robot: https://youtu.be/PahHFl3Yav8
 
 Image of the map: ![Map](https://github.com/HaroldOtsus/Boe-Bot-Robot-Mapping/assets/92230750/fba99641-9517-4a6f-a3e0-1f6897678d1d)
 
-Traversal algorithm diagram: 
-![Traversal](https://github.com/HaroldOtsus/Boe-Bot-Robot-Mapping/assets/92230750/5aba3fda-cbde-437d-b471-d5f10360000a)
-
 Mapping algorithm diagram: ![Mapping](https://github.com/HaroldOtsus/Boe-Bot-Robot-Mapping/assets/92230750/86fe8b5b-d6b7-4cf5-a5a6-a449e5f8055a)
+
+Traversal algorithm diagram: ![Traversal](https://github.com/HaroldOtsus/Boe-Bot-Robot-Mapping/assets/92230750/1f555ed7-2cdb-4e26-8d55-f7a442a8dc74)
+
